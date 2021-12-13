@@ -1,0 +1,53 @@
+<?xml version="1.0"?>
+<glyph name="minute" format="2">
+  <advance width="416"/>
+  <unicode hex="2032"/>
+  <outline>
+    <contour>
+      <point x="93.2031" y="483.5" type="line"/>
+      <point x="92.2188" y="483.326" type="line" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="328.623" y="887.519" type="curve" smooth="yes"/>
+      <point x="329.317" y="883.579"/>
+      <point x="329.114" y="878.974"/>
+      <point x="327.752" y="875.18" type="curve" smooth="yes"/>
+      <point x="323.349" y="871.357"/>
+      <point x="321.813" y="868.548"/>
+      <point x="318.482" y="864.406" type="curve" smooth="yes"/>
+      <point x="313.615" y="857.456"/>
+      <point x="307.3" y="847.203"/>
+      <point x="299.448" y="834.142" type="curve" smooth="yes"/>
+      <point x="249.357" y="749.66"/>
+      <point x="134.456" y="537.483"/>
+      <point x="95.7236" y="486.483" type="curve"/>
+      <point x="101.786" y="550.001"/>
+      <point x="147.78" y="755.611"/>
+      <point x="214.906" y="864.421" type="curve" smooth="yes"/>
+      <point x="237.735" y="901.955"/>
+      <point x="264.354" y="912.233"/>
+      <point x="276.172" y="914.317" type="curve" smooth="yes"/>
+      <point x="282.081" y="915.359"/>
+      <point x="289.148" y="915.59"/>
+      <point x="296.562" y="913.852" type="curve" smooth="yes"/>
+      <point x="312.377" y="910.547"/>
+      <point x="326.452" y="899.828"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>93</integer>
+            <key>width</key>
+            <integer>235</integer>
+          </dict>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>
