@@ -1,5 +1,5 @@
 # Justin's Script
-<a href="https://github.com/zcraber/Justins-Script/blob/main/LICENSE"> <img alt="License" src="https://img.shields.io/github/license/zcraber/Justins-Script"></a> <a href="https://github.com/zcraber/justins-script/releases"> <img alt="Total Downloads" src="https://img.shields.io/github/downloads/zcraber/justins-script/total"></a>
+<a href="https://github.com/zcraber/Justins-Script/blob/main/LICENSE"> <img alt="License" src="https://img.shields.io/github/license/zcraber/Justins-Script"></a> <a href="https://github.com/zcraber/Justins-Script/releases"> <img alt="Total Downloads" src="https://img.shields.io/github/downloads/zcraber/justins-script/total"></a>
 
 Justin's Script is a simple handwriting-style font I've designed based on the handwriting style of my cousin in an attempt to learn the font designing basics. It contains basic Latin glyphs.
 
